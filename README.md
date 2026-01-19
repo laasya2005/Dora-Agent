@@ -123,3 +123,11 @@ npm run dev
 - Real-time streaming responses
 - Source citation in answers
 - Clean, responsive UI
+
+<img width="1505" height="821" alt="Screenshot 2026-01-18 at 9 52 57 PM" src="https://github.com/user-attachments/assets/ea599f40-0365-4683-bef3-be2aba3a1f58" />
+
+<img width="1503" height="816" alt="Screenshot 2026-01-18 at 9 53 19 PM" src="https://github.com/user-attachments/assets/4ee2cdab-a434-4b0a-8fc5-b1e5f7f6aa46" />
+
+<img width="1504" height="827" alt="Screenshot 2026-01-18 at 9 38 12 PM" src="https://github.com/user-attachments/assets/5db5d1a0-095f-42f7-adaa-e03f1e85ec02" />
+
+
