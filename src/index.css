@@ -1,0 +1,50 @@
+:root {
+  --primary: #1A1A1A;
+  --primary-hover: #000000;
+  --accent: #8B7355;
+  --bg-1: #FFFFFF;
+  --bg-2: #FAF8F5;
+  --bg-3: #F5F0E8;
+  --bg-4: #EBE5DB;
+  --text-1: #1A1A1A;
+  --text-2: #4A4A4A;
+  --text-3: #8A8A8A;
+  --border: rgba(0, 0, 0, 0.1);
+  --border-hover: rgba(0, 0, 0, 0.2);
+  --ring: rgba(139, 115, 85, 0.3);
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 32px;
+  --space-8: 40px;
+  --space-9: 48px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg-1);
+  color: var(--text-1);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
